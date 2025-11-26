@@ -1,0 +1,3 @@
+Version 0.1:
+Created an object to manage stages(lives) and returning the corresponding output for the user
+Created a rough structure to help programming
