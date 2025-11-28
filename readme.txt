@@ -9,3 +9,5 @@ using professional software development practices.
 Flashcards will be saved in json format with the extension ".nuast"
 
 Mathew is sigma
+
+Lukas Baker smells
