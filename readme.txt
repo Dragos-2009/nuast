@@ -8,6 +8,7 @@ using professional software development practices.
 
 Flashcards will be saved in json format with the extension ".nuast"
 
-Mathew is sigma
+Mega Matthew is sigma
+Leo Paderi is goated
 
 Lukas Baker smells lol
