@@ -7,6 +7,9 @@ def helloWorld():
     return "Hello World"
 
 @app.route("/getFlashcard/<flashcard>")
+def getFlashcard(flashcard):
+    # TODO: make it work later
+    return flashcard
 
 def main():
     app.run()
