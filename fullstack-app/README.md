@@ -10,10 +10,7 @@ Each module is stored in its own directory
 - CRUD Restful API
 - Serve the frontend
 - Interact with the DB
-    - `/read`
-    - `/update`
-    - `/list`
-    - `/delete`
+- documentation for the API can be found [here](flask/docs.md)
 ### Frontend:
 - Jinja
 - Bootstrap
